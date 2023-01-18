@@ -2,7 +2,7 @@
 
 This project provides a ecommerce template using react
 
-## Notas:
+## Notes:
 
 Rembember install yarn
 
