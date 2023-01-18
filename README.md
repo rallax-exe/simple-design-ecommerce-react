@@ -1,4 +1,4 @@
-# Simple Design Ecommerce Scripted in React
+# Simple Ecommerce Template in React
 
 This project provides a ecommerce template using react
 
